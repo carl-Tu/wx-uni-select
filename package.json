@@ -33,7 +33,7 @@
     "pinia-plugin-persistedstate": "^3.1.0",
     "uni-ajax": "^2.5.1",
     "vant": "^4.3.1",
-    "vue": "^3.2.47",
+    "vue": "^3.5.17",
     "vue-i18n": "^9.2.2",
     "wot-design-uni": "^1.10.0"
   },
